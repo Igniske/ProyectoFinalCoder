@@ -1,0 +1,12 @@
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

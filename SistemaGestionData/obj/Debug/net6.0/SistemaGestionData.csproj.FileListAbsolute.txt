@@ -1,0 +1,6 @@
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\corea\OneDrive\Desktop\CoderHouse curso\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.sourcelink.json
